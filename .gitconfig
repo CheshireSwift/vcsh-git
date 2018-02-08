@@ -42,3 +42,5 @@
   old = 161
   new = 118
 
+[core]
+	editor = vim
